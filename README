@@ -9,7 +9,7 @@ Provides wrappers for php applications to make requests to resources on Klout.
 What are the basic methods?
 ---------------------------
 
-	KloutIDLookupByName($network,$id)
+	KloutIDLookupByName($network,$screenname)
 	 * Looks up a Klout ID from a Network Screen Name
 	 * $network The Network
 	 * $screenname The Network Screen Name to look up
